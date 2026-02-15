@@ -56,6 +56,8 @@
     {"id":{"name":"rm_boot","path":"rooms/rm_boot/rm_boot.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"id":{"name":"scr_check_answer","path":"scripts/scr_check_answer/scr_check_answer.yy",},},
+    {"id":{"name":"scr_next_base","path":"scripts/scr_next_base/scr_next_base.yy",},},
     {"id":{"name":"spr_button_A","path":"sprites/spr_button_A/spr_button_A.yy",},},
     {"id":{"name":"spr_button_C","path":"sprites/spr_button_C/spr_button_C.yy",},},
     {"id":{"name":"spr_button_G","path":"sprites/spr_button_G/spr_button_G.yy",},},
