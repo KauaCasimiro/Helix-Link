@@ -56,13 +56,17 @@
     {"id":{"name":"rm_boot","path":"rooms/rm_boot/rm_boot.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"id":{"name":"spr_button_A","path":"sprites/spr_button_A/spr_button_A.yy",},},
+    {"id":{"name":"spr_button_C","path":"sprites/spr_button_C/spr_button_C.yy",},},
+    {"id":{"name":"spr_button_G","path":"sprites/spr_button_G/spr_button_G.yy",},},
+    {"id":{"name":"spr_button_T","path":"sprites/spr_button_T/spr_button_T.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_boot","path":"rooms/rm_boot/rm_boot.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
-    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
