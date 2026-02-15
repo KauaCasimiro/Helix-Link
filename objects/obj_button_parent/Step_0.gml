@@ -7,9 +7,7 @@ if (device_mouse_check_button_pressed(0, mb_left)) {
 		pressed = true; 
 		show_debug_message("Botão Pressionado: " + base_letter);
 		pressed_timer = 10;
-		with("placeholder") {
-			check_answer(other.base_letter);
-		}
+		var result = game_controller.check_answer(base_letter);
 	}
 }
 

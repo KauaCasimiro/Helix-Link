@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_check_answer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_check_answer",
+  "parent":{
+    "name":"gameplay",
+    "path":"folders/scripts/gameplay.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

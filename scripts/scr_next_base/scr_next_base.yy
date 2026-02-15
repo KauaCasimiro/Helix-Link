@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_next_base",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_next_base",
+  "parent":{
+    "name":"gameplay",
+    "path":"folders/scripts/gameplay.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
